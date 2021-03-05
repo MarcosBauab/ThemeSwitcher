@@ -22,5 +22,9 @@
   },
   "include": [
     "src"
+  ],
+  /*Arquivos que se compilam junto com a aplicação*/
+  "files": [
+    "src/styles/styled.d.ts"
   ]
 }
